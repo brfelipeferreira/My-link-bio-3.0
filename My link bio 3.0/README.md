@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
 
-<img src ="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gNSp03CHkvntbCR5B7bWbnOcsDyA2HZY7A671ryXackYyswwovbzOCM796aQGiNOxsD9r1y0cQ6mSIDCOJBq9Trt610zg=w1365-h616">
+<img src ="https://drive.google.com/uc?id=1n-sqWEVO6JypNWzD76HfGTLdksnrxv08&export=preview">
   
 </div>
 
